@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://mribeirodantas.github.io
+url: https://mribeirodantas.github.io
 title: Seasky
 subtitle: Reveries of a researcher wandering in France.
 author: Marcel Ribeiro Dantas
 simple_search: https://www.google.com/search
-description:
+description: personal blog researcher marcel ribeiro dantas
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
