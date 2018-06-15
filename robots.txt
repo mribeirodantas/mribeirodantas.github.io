@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://mribeirodantas.github.io/sitemap.xml 
