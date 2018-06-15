@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://mribeirodantas.github.io/atom.xml" rel="self"/>
-  <link href="http://mribeirodantas.github.io/"/>
-  <updated>2018-06-14T21:07:22-03:00</updated>
-  <id>http://mribeirodantas.github.io/</id>
+  <title><![CDATA[Seasky]]></title>
+  <link href="https://mribeirodantas.github.io/atom.xml" rel="self"/>
+  <link href="https://mribeirodantas.github.io/"/>
+  <updated>2018-06-14T21:22:02-03:00</updated>
+  <id>https://mribeirodantas.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Marcel Ribeiro Dantas]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

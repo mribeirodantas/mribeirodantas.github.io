@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mribeirodantas.github.io/sitemap.xml 
+Sitemap: https://mribeirodantas.github.io/sitemap.xml 
